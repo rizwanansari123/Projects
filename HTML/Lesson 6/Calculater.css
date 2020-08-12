@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+button {
+    height: 45px;
+    width: 45px;
+    color: indianred;
+}
+h1{
+    background-image: linear-gradient(red,orange);
+    text-align: center;
+}
+
+h2{
+    height: 70px;
+    text-align: center;
+    font-style: italic;
+    color: indigo;
+}
+h3{
+    color: indigo;
+}
+

@@ -1,0 +1,75 @@
+body {
+    background-image: url("file:///C:/Users/rizwa/OneDrive/Desktop/New%20folder/Sea_Island_Background.jpg");
+  }
+  h2{
+      color: #000;
+      text-shadow: 2px 2px white;
+    
+  }
+header {
+    background-color: #666;
+    background-image: linear-gradient(-90deg, red, yellow);
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    opacity: 0.7;
+  }
+
+  /* Container for flexboxes */
+section {
+    display: flex;
+    opacity: 0.7;
+    
+}
+
+/* Style the navigation menu */
+nav {
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+    opacity: 0.7;
+    font-size: 20px;
+    font-style: oblique;
+        
+  }
+
+  /* Style the list inside the menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+  }
+
+  article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 300px; 
+  }
+
+  footer {
+    font-size: 30px;
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+  }
+  #Mp3{
+    background-image: linear-gradient(blue,yellow);
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  #Videolink{
+    background-image: linear-gradient(yellow,orange,red);
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .addvideo{
+    width: 300px; height:500px;
+
+  } 

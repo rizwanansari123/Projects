@@ -1,0 +1,29 @@
+table, th, td {
+  border: 1px solid black;
+  
+}
+
+body{
+  background-image: linear-gradient(-90deg, red, yellow);
+  
+}
+
+.resultFailed {
+  color: red;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
+#overlayInput {
+  position: absolute;
+  display: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2; 
+
+}

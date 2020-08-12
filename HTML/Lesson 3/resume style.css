@@ -1,0 +1,83 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-size: 70px;
+   font-style: italic;
+   text-align: center;
+   background-image: linear-gradient(-90deg, red, yellow);
+  }
+  #mydp{
+      text-align: right;
+      
+  }
+ td{
+     padding-right: 60px;
+ }
+ table,th,td{
+     border:1px solid
+ }
+ #myhobbies{
+     size: 100px;
+     background-image:url(file:///C:/Users/rizwa/OneDrive/Desktop/13002443_1055733927808105_3546904484998309694_o.jpg);
+     height: 600px; width: 600px;
+     text-align:center;
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+     font-size: 50px;
+     color:darkred;
+ }
+ p.centerAlign {
+    
+    text-align: center;
+     color: deeppink;
+     font-size: 50px;
+     background-image: linear-gradient(-90deg, red, yellow);
+ }
+ #thankyou{
+     color: fuchsia;
+     
+ }
+ #grad1 {
+    height: 55px;
+    background-color: red; 
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    font-size: 50px;
+    text-align: center;
+  
+}
+
+h2 {
+    text-shadow: 2px 2px #f44336;
+    color:whitesmoke;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    font-size: 70px;
+   font-style: italic;
+   text-align: center;
+  }
+  .button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
+.button2 {background-color: #008CBA;}
+.button3 {background-color: #f44336;} 
+.button4 {background-color: #e7e7e7;} 
+.button5 {background-color: #5a5252;}
+ 
+  
+  
+  
+ 
+
+
+
+
